@@ -1,5 +1,5 @@
  
-This reposiratory contains React Porjects created by HTML,Tailwind CSS and REACT.
+This reposiratory contains React Porjects created by HTML,Tailwind CSS ,REACT,REDUX,NEXT.JS amd ROUTES.
 
 # Shopping-website
 
